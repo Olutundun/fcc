@@ -1,6 +1,7 @@
 {
 	"name": "fcc",
 	"author": "Tundun Gbogboade",
+	"description": "a node.js project for freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
